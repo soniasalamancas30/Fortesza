@@ -1,0 +1,27 @@
+{
+  "name": "cypress_end_to_end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soniasalamancas30/Test-Fortesza.git"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "automation"
+  ],
+  "author": "soniasalamanca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soniasalamancas30/Test-Fortesza/issues"
+  },
+  "homepage": "https://github.com/soniasalamancas30/Test-Fortesza#readme",
+  "devDependencies": {
+    "cypress": "^12.8.1"
+  }
+}
